@@ -1,0 +1,10 @@
+{
+	"network-id": "local",
+	"enable_ws": false,
+	"database": {
+		"name": "wallflower_db", 
+		"type": "sqlite"
+	},
+	"http_port": 5000, 
+	"ws_port": 5050
+}
