@@ -1,1 +1,1 @@
-web: gunicorn wallflower_pico_server:app --log-file=-
+web: gunicorn wallflower_atto_server:app --log-file=-
