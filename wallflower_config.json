@@ -1,0 +1,8 @@
+{
+	"network-id": "local",
+	"database": {
+		"name": "wallflower_db", 
+		"type": "sqlite"
+	},
+	"http_port": 5000
+}
