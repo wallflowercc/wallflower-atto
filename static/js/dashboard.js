@@ -1355,7 +1355,7 @@ $(document).ready(function(){
       success : function(response){
         var this_form = $("form#form-delete-points");
         var message = $('<div class="alert" style="margin-top:20px"></div>');
-        var req = $('<pre class="language-"><b>GET</b> '+this.url+'</pre>');
+        var req = $('<pre class="language-"><b>DELETE</b> '+this.url+'</pre>');
         
         if( response['points-code'] == 200 ){
           // Start Success message
