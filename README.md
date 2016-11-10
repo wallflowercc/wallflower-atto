@@ -92,11 +92,11 @@ $ cd wallflower-atto/
 
 ### License
 
-The Wallflower.Pico source code is licensed under the [AGPL v3][agpl]. You can find a reference to this license at the top of each source code file.
+The Wallflower.Atto source code is licensed under the [AGPL v3][agpl]. You can find a reference to this license at the top of each source code file.
 
 Components which connect to the server via the API are not affected by the AGPL. This extends to the Python example code and the HTML, JS, and CSS code of the web interface, which are licensed under the [MIT license][mit].
 
-In summary, any modifications to the Wallflower.Pico source code must be distributed according to the terms of the AGPL v3. Any code that connects to a Wallflower.cc server via an API is recognized as a seperate work (not a derivative work) irrespective of where it runs. Lastly, you are free to modify the HTML, JS, and CSS code of the web interface without restrictions, though we would appreciate you sharing what you have created.
+In summary, any modifications to the Wallflower.Atto source code must be distributed according to the terms of the AGPL v3. Any code that connects to a Wallflower.cc server via an API is recognized as a seperate work (not a derivative work) irrespective of where it runs. Lastly, you are free to modify the HTML, JS, and CSS code of the web interface without restrictions, though we would appreciate you sharing what you have created.
 
 
 [wcc]: <http://wallflower.cc>
